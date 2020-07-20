@@ -1,8 +1,8 @@
 !xrdb 
 URxvt.urgentOnBell: false 
 URxvt.visualBell: false
-URxvt.iso14755: false
-URxvt.iso14755_52: off
+URxvt.iso14755: true 
+URxvt.iso14755_52: on 
 URxvt.meta8: true
 URxvt.depth: 32
 URxvt.iconFile: /usr/share/icons/Humanity/apps/108/utilities-terminal.svg
